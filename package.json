@@ -12,6 +12,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.2.2",
     "@apollo/client": "^3.7.3",
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.17",
