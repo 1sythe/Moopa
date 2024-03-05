@@ -216,37 +216,37 @@ export default function Schedule({ schedule }) {
   return (
     <>
       <Head>
-        <title>Moopa - Schedule</title>
+        <title>Sakura - Schedule</title>
         {/* write a meta with good seo for this page */}
         <meta
           name="description"
-          content="Moopa is a website where you can find all the information about your favorite anime and manga."
+          content="Sakura is a website where you can find all the information about your favorite anime and manga."
         />
         <meta
           name="keywords"
-          content="anime, manga, moopa, anilist, information, schedule, airing, next, currently, airing, anime, manga"
+          content="anime, manga, sakura, anilist, information, schedule, airing, next, currently, airing, anime, manga"
         />
         <meta name="robots" content="index, follow" />
-        <meta name="author" content="Moopa Team" />
-        <meta name="url" content="https://moopa.live/en/schedule" />
-        <meta name="og:title" property="og:title" content="Moopa - Schedule" />
+        <meta name="author" content="Sakura Team" />
+        <meta name="url" content="https://anime.sythe.cloud/en/schedule" />
+        <meta name="og:title" property="og:title" content="Sakura - Schedule" />
         <meta
           name="og:description"
           property="og:description"
-          content="Moopa is a website where you can find all the information about your favorite anime and manga."
+          content="Sakura is a website where you can find all the information about your favorite anime and manga."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://moopa.live/en/schedule" />
+        <meta property="og:url" content="https://manga.sythe.cloud/en/schedule" />
         <meta
           property="og:image"
-          content="https://beta.moopa.live/preview.png"
+          content="https://manga.sythe.cloud/preview.png"
         />
         <meta
           property="og:image:alt"
-          content="Moopa is a website where you can find all the information about your favorite anime and manga."
+          content="Sakura is a website where you can find all the information about your favorite anime and manga."
         />
         <meta property="og:locale" content="en_US" />
-        <meta property="og:site_name" content="Moopa" />
+        <meta property="og:site_name" content="Sakura" />
         <meta name="twitter:card" content="summary_large_image" />
         {/* <meta name="twitter:site" content="@moopa_anime" />
         <meta name="twitter:creator" content="@moopa_anime" /> */}
@@ -256,12 +256,12 @@ export default function Schedule({ schedule }) {
         />
         <meta
           name="twitter:image:alt"
-          content="Moopa is a website where you can find all the information about your favorite anime and manga."
+          content="Sakura is a website where you can find all the information about your favorite anime and manga."
         />
-        <meta name="twitter:title" content="Moopa - Schedule" />
+        <meta name="twitter:title" content="Sakura - Schedule" />
         <meta
           name="twitter:description"
-          content="Moopa is a website where you can find all the information about your favorite anime and manga."
+          content="Sakura is a website where you can find all the information about your favorite anime and manga."
         />
       </Head>
       <MobileNav sessions={session} hideProfile={true} />
