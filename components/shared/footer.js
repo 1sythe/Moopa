@@ -24,7 +24,7 @@ function Footer() {
       <div className="text-[#dbdcdd] z-40 bg-[#0c0d10] lg:flex lg:h-[12rem] w-full lg:items-center lg:justify-between">
         <div className="mx-auto flex w-[90%] lg:w-[95%] xl:w-[80%] flex-col space-y-10 py-6 lg:flex-row lg:items-center lg:justify-between lg:space-y-0 lg:py-0">
           <div className="flex flex-col gap-2">
-            <div className="flex gap-2 font-outfit text-4xl">moopa</div>
+            <div className="flex gap-2 font-outfit text-4xl">sakura</div>
             <p className="font-karla lg:text-[0.8rem] text-[0.65rem] text-[#9c9c9c]  lg:w-[520px] italic">
               This site does not store any files on our server, we only linked
               to the media which is hosted on 3rd party services.
@@ -59,7 +59,7 @@ function Footer() {
                   <Link href={`/en/dmca`}>DMCA</Link>
                 </li>
                 <li className="cursor-pointer hover:text-action">
-                  <Link href="https://github.com/DevanAbinaya/Ani-Moopa">
+                  <Link href="https://github.com/1sythe/Moopa">
                     Github
                   </Link>
                 </li>
@@ -71,13 +71,13 @@ function Footer() {
       <div className="bg-tersier border-t border-white/5">
         <div className="mx-auto flex w-[90%] lg:w-[95%] xl:w-[80%] flex-col pb-6 lg:flex-row lg:items-center lg:justify-between lg:space-y-0 lg:py-0">
           <p className="flex items-center gap-1 font-karla lg:text-[0.81rem] text-[0.7rem] text-[#CCCCCC] py-3">
-            &copy; {new Date().getFullYear()} moopa.live | Website Made by{" "}
-            <span className="text-white font-bold">Factiven</span>
+            &copy; {new Date().getFullYear()} anime.sythe.cloud | Website Made by{" "}
+            <span className="text-white font-bold">luca</span>
           </p>
           <div className="flex items-center gap-5">
             {/* Github Icon */}
             <Link
-              href="https://github.com/Ani-Moopa/Moopa"
+              href="https://github.com/1sythe/Moopa"
               className="w-5 h-5 hover:opacity-75"
             >
               <svg
