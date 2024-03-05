@@ -45,7 +45,7 @@ function Footer() {
                   <Link href={`/en/search/manga`}>Popular Manga</Link>
                 </li>
                 <li className="cursor-pointer hover:text-action">
-                  <Link href={`/donate`}>Donate</Link>
+                  <Link href="https://ko-fi.com/myenv">Donate</Link>
                 </li>
               </ul>
               <ul className="flex flex-col gap-y-[0.7rem]">
@@ -103,7 +103,7 @@ function Footer() {
             </Link>
             {/* Discord Icon */}
             <Link
-              href="https://discord.gg/v5fjSdKwr2"
+              href="https://discord.gg/m5YqGvb8"
               className="w-6 h-6 hover:opacity-75"
             >
               <svg
@@ -119,7 +119,7 @@ function Footer() {
             </Link>
 
             {/* Kofi */}
-            <Link href="/donate" className="w-6 h-6 hover:opacity-75">
+            <Link href="https://ko-fi.com/myenv" className="w-6 h-6 hover:opacity-75">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="#fff"
