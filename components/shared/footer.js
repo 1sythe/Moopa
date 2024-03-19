@@ -59,7 +59,7 @@ function Footer() {
                   <Link href={`/en/dmca`}>DMCA</Link>
                 </li>
                 <li className="cursor-pointer hover:text-action">
-                  <Link href="https://github.com/1sythe/Moopa">
+                  <Link href="https://github.com/1sythe">
                     Github
                   </Link>
                 </li>

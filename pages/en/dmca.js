@@ -77,7 +77,7 @@ export default function DMCA() {
                     · The exact and complete URL link where the infringing
                     material is located.
                   </li>
-                  <li>· Please write to us in English or Indonesian.</li>
+                  <li>· Please write to us in English or German.</li>
                 </ul>
               </div>
               <p className="text-[#cdcdcd]">
